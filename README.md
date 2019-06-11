@@ -8,6 +8,9 @@ Thanks for attending this lab. The goal is to show you the basics operations and
 You will be able to replicate this lab at home at your own pace and get experience with Kubernetes!
 
 Enjoy and thanks for attending
+
 Hector Morales,
+
 Senior Technology Solutions Architect
+
 WW Service Provider Segment
